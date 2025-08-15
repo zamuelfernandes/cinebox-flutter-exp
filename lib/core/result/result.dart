@@ -15,4 +15,4 @@ class Failure<T> extends Result<T> {
   Failure(this.error, {this.value});
 }
 
-Result<Unit> successOfUnit() => Success(Unit());
+Success<Unit> successOfUnit() => Success(Unit());

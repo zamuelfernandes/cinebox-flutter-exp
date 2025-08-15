@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'ui/core/routes/rooutes.dart' show AppRoutes;
+import 'ui/core/routes/routes.dart' show AppRoutes;
 import 'ui/core/themes/theme.dart' show AppTheme;
 
 class CineboxMainApp extends StatelessWidget {
